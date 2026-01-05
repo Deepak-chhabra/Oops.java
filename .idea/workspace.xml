@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f26c2fb0-6f5e-4559-b1aa-57cdd6e44794" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/BasicWithExceptionHandling/Test2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/BasicWithExceptionHandling/Test1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BasicWithExceptionHandling/Test1.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,20 +39,7 @@
     "git-widget-placeholder": "main"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Test1 (4)">
-    <configuration name="Test1 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="BasicWithExceptionHandling.Test1" />
-      <module name="jan2026Oops" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="BasicWithExceptionHandling.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Test2">
     <configuration name="Test1 (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="BasicWithExceptionHandling.Test1" />
       <module name="jan2026Oops" />
@@ -105,13 +92,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Test2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BasicWithExceptionHandling.Test2" />
+      <module name="jan2026Oops" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="BasicWithExceptionHandling.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Test2" />
         <item itemvalue="Application.Test1 (4)" />
         <item itemvalue="Application.Test1" />
         <item itemvalue="Application.Test1 (3)" />
         <item itemvalue="Application.Test1 (2)" />
-        <item itemvalue="Application.Test1 (1)" />
       </list>
     </recent_temporary>
   </component>
